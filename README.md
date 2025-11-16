@@ -9,14 +9,14 @@
 
 ## Quick Start
 
-### 1. Install Playwright
-```bash
-npm init playwright@latest
-```
-### 2. Clone the Repository
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/sufian00t/saucedemo_test.git
 cd saucedemo_test
+```
+### 2. Install Playwright
+```bash
+npm init playwright@latest
 ```
 ### 3. Run the script with Headed(GUI)
 ```bash
